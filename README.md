@@ -1,1 +1,1 @@
-# Intelligent-Face-recognition-system-using-Tiny-Portenta-H7
+# Intelligent Face recognition system using Tiny Portenta-H7
