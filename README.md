@@ -8,7 +8,8 @@ For the Proof of concept, i have trained with my own image dataset to recognise 
 
 ## Hardware Used :
 	1.Arduino portenta H7
-	2.Type C USB cable
+	2.Portenta Vision Shield
+	3.Type C USB cable
 ## Software Used :
 	1.Micro Python
 	2.OpenMV IDE
